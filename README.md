@@ -79,7 +79,7 @@ python main.py
 
 📂 Project Structure
 
-├── main.py                  # Data analysis and plotting script
+├── main.py                   # Data analysis and plotting script
 ├── netflix\_titles.csv       # Original dataset
 ├── plots/                   # Folder with saved plots
 └── README.md
