@@ -1,3 +1,4 @@
+🚀 [Live App on Streamlit](https://netflix-data-analysis-culfka3rtxs9iis2gxshhm.streamlit.app/)
 
 # 🎬 Netflix Data Analysis
 
