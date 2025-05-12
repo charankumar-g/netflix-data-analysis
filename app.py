@@ -64,5 +64,5 @@ st.markdown("---")
 st.markdown("""
 🔗 **Connect with Me**  
 📩 Email: [charankumar.career@gmail.com](mailto:charankumar.career@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/charankumar-g](https://linkedin.com/in/charankumar-g)
+🔗 LinkedIn: [linkedin.com/in/charan-kumar-g](https://linkedin.com/in/charankumar-g)
 """)
